@@ -272,4 +272,3 @@ docs/diagrama_orquestacion.png
 **Asignatura:** Ingeniería de Soluciones con IA  
 **Proyecto:** Sistema OMM – Hotel El Almendro  
 **Integrantes:** Matías Loyola y Matías Cisternas
-```
